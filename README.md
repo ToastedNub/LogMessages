@@ -18,10 +18,10 @@
 # Brain
  - Loading the jsons with meme links from reddit
 
-# NSFW, NSFW2
+# NSFW, NSFW2, NSFW3
  - For the SNFW Server
 
-# FullList, FullList2
+# FullList, FullList2, FullList3
  - The jsons the bots use to get their links from
 
 # LinkBot
