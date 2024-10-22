@@ -24,4 +24,4 @@
  - Queue from Discord users
 
 # Unused, UnusedNSFW (These are not used by my bots, but other peoples bots as requested)
- - The links that are not currently being sent by the bots
+ - The links that are not currently being sent by my bots
