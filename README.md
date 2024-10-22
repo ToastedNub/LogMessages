@@ -1,5 +1,6 @@
 # HOW TO REQUEST
  - Join the [Discord](https://discord.gg/n44zjAr6RV)
+ - Join the [NSFW Discord](https://discord.gg/qAupaGXRYt)
 
  - Send a Video or Gif somewhere on Discord
 
@@ -17,11 +18,14 @@
 # Brain
  - Loading the jsons with meme links from reddit
 
+# NSFW, NSFW2
+ - For the SNFW Server
+
 # FullList, FullList2
  - The jsons the bots use to get their links from
 
 # LinkBot
  - Queue from Discord users
 
-# Unused, UnusedNSFW
+# Unused
  - These are not used by my bots, but other peoples bots as requested
