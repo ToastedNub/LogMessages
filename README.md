@@ -23,5 +23,5 @@
 # LinkBot
  - Queue from Discord users
 
-# UnusedLinks, UnusedNSFW
+# Unused, UnusedNSFW
  - The links that are not currently being sent by the bots
