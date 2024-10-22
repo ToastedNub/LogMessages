@@ -12,6 +12,8 @@
 # Json Limits
  - There are 2 FullList jsons because once you go past 10,000 messages in one, GitHub stops displaying it and it can get buggy editing it, so to avoid this, there are multiple FullLists that the bots merge the message data from, and read both as one full json
 
+ - There are no duplicate links or files whatsoever
+
 # Brain
  - Loading the jsons with meme links from reddit
 
