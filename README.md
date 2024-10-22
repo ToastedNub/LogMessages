@@ -17,3 +17,6 @@
 
 # LinkBot
  - Queue from Discord users
+
+# UnusedLinks
+ - The links that are not currently being sent by the bots
