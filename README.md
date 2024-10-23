@@ -20,14 +20,11 @@
 # Brain
  - Loading the jsons with meme links from reddit
 
-# NSFW, NSFW2, NSFW3 (20,000+ NSFW MEDIA FILES)
+# NSFW, NSFW2, NSFW3, NSFWPIC, NSFWPIC2, NSFWPIC3 (NSFW MEDIA FILES)
  - For the SNFW Server
 
-# FullList, FullList2, FullList3 (20,000+ MEME MEDIA FILES)
+# FullList, FullList2, FullList3, PIC1, PIC2, PIC3 (MEME MEDIA FILES)
  - The jsons the bots use to get their links from
 
 # LinkBot
  - Queue from Discord users
-
-# Unused
- - These are not used by my bots, but other peoples bots as requested
