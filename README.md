@@ -1,3 +1,5 @@
+# [CLICK THIS TO SEE MAIN SERVER INFO!](https://github.com/ToastedNub/Servers-that-I-manage)
+
 # HOW TO REQUEST
  - Join the [Discord](https://discord.gg/n44zjAr6RV)
  - Join the [NSFW Discord](https://discord.gg/qAupaGXRYt)
