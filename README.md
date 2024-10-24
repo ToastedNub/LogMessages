@@ -5,7 +5,7 @@
  - Join the [Discord](https://discord.gg/n44zjAr6RV)
  - Join the [NSFW Discord](https://discord.gg/qAupaGXRYt)
 
- - ALL COMMANDS MUST BE SENT TO THE NORMAL BOTS, THE NSFW BOTS DO NOT FORWARD COMMANDS!
+ - ALL COMMANDS MUST BE SENT TO THE NORMAL BOTS (Grandma, Grandpa, George, Mammott Finger, BeanBot, BeanBot 2, Carl), THE NSFW BOTS (Stan, Bob, Wilbo) DO NOT FORWARD COMMANDS!
 
  - If you are sending a Reddit User link or a Subreddit link, then you can skip to the SEND COMMAND info of HOW TO REQUEST
 
