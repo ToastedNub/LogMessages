@@ -1,4 +1,4 @@
-# [CLICK THIS TO SEE MAIN SERVER INFO!](https://github.com/ToastedNub/Servers-that-I-manage)
+# [CLICK THIS TO SEE MAIN SERVER INFO](https://github.com/ToastedNub/Servers-that-I-manage)
 # [CLICK THIS TO SEE THE MEME ARCHIVE](https://github.com/ToastedNub/Meme-Archive)
 
 # HOW TO REQUEST
