@@ -35,3 +35,6 @@
 
 # LinkBot
  - Queue from Discord users
+
+# NSFW jsons
+ - The NSFW things taken out after filtering
