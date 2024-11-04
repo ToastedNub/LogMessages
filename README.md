@@ -30,9 +30,6 @@
 # Brain
  - Loading the jsons with meme links from reddit
 
-# NSFW, NSFW2, NSFW3, NSFWGIF, NSFWGIF2, NSFWGIF3, NSFWPIC, NSFWPIC2, NSFWPIC3 (NSFW MEDIA FILES)
- - For the SNFW Server
-
 # FullList, FullList2, FullList3, GIF, GIF2, GIF3, PIC1, PIC2, PIC3 (MEME MEDIA FILES)
  - The jsons the bots use to get their links from
 
